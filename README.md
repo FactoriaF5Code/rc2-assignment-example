@@ -1,1 +1,2 @@
-# rc2-assignment-example
+# Rural Camp 2
+
